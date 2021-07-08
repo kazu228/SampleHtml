@@ -21,3 +21,7 @@ h1 span {
     font-family: 'Oswald', sans-serif;
     font-size: 16px;
 }
+
+.globalNavi li:last-child {
+    margin-right:0px;
+}
