@@ -11,6 +11,13 @@ h1 span {
     font-size: 15px;
 }
 
+.globalNavi {
+    text-align: center;
+}
+
 .globalNavi li {
-    display: inline-block;
+    display: inline-block;  
+    margin-right: 40px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
 }
