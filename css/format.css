@@ -118,3 +118,14 @@ h1 span {
     border-bottom: 1px solid black;
     width: 90%;
 }
+
+.instagramBt {
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.instagramBt a {
+    background: #000000;
+    color: ffffff;
+}
