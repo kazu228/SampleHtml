@@ -82,3 +82,17 @@ h1 span {
     width: 100%;
     height: auto;
 }
+
+.aboutSection h3 {
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: normal;
+    margin: 0;
+    letter-spacing: 1px;
+}
+
+.aboutSection p {
+    font-size: 14px;
+    margin: 0;
+    letter-spacing: 1px;
+}
