@@ -97,3 +97,24 @@ h1 span {
     margin: 0;
     letter-spacing: 1px;
 }
+
+.newsSection table {
+    width: 100%;
+    border-top: 1px solid black;
+}
+
+.newsSection th {
+    font-family: 'Oswald', sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    border-bottom: 1px solid black;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    width: 10%;
+}
+
+.newsSection td {
+    font-size: 14px;
+    border-bottom: 1px solid black;
+    width: 90%;
+}
