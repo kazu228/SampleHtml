@@ -31,3 +31,14 @@ h1 span {
 .globalNavi li:last-child {
     margin-right:0px;
 }
+
+.mainImage {
+    width: 1000px;
+    margin-right: auto;    /*ブロックを中央揃え*/
+    margin-left: auto;
+}
+
+.mainImage img {
+    width: 100%;
+    height: auto;
+}
