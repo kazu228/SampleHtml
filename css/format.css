@@ -51,7 +51,8 @@ h1 span {
     line-height: 1.2;
 }
 
-.aboutSection {
+.aboutSection,
+.newsSection {
     width: 1000px;
     margin-right: auto;    /*ブロックを中央揃え*/
     margin-left: auto;
