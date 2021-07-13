@@ -44,10 +44,12 @@ h1 span {
     height: auto;
 }
 
-.aboutSection {
+.aboutSection , 
+.newsSection {
     width: 1000px;
     margin-right: auto;
     margin-left: auto;
+    margin-bottom: 50px;
 }
 
 .hStyle {
@@ -96,3 +98,24 @@ h1 span {
     letter-spacing: 1px;
 }
 
+.newsSection table {
+    width: 100%;
+}
+
+.newsSection th {
+    font-family: 'Oswald', sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    border-bottom: 1px solid #dddddd;
+    padding-bottom: 15px;
+    padding-top:  15px;
+    width: 10%;
+}
+
+.newsSection td {
+    font-size: 14px;
+    border-bottom: 1px solid #dddddd;
+    padding-bottom: 15px;
+    padding-top:  15px;
+    width: 90%;
+}
