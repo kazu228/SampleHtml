@@ -44,6 +44,12 @@ h1 span {
     height: auto;
 }
 
+.aboutSection {
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 .aboutSection h2 {
     text-align: center;
     font-size: 11px;
