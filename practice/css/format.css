@@ -65,10 +65,15 @@ h1 span {
 
 .aboutSection ul {
     overflow: hidden;
+    padding: 0;
 }
 
 .aboutSection li {
     float: left;
     list-style: none;
     width: 32%;
+}
+.aboutSection li img {
+    width: 100%;
+    height: auto;
 }
