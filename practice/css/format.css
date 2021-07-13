@@ -1,3 +1,7 @@
+body {
+    padding-top: 50px;
+}
+
 h1 {
     text-align: center;
     font-size: 40px;
@@ -20,6 +24,7 @@ h1 span {
     margin-right: 40px;
     font-size: 16px;
     font-family: 'Oswald', sans-serif;
+    letter-spacing: 1px;
 }
 
 .globalNavi li:last-child {
