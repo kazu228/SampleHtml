@@ -47,6 +47,8 @@ h1 span {
 .aboutSection h2 {
     text-align: center;
     font-size: 11px;
+    margin-bottom: 40px;
+    line-height: 1.2;
 }
 
 .aboutSection h2 span {
