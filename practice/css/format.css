@@ -74,6 +74,10 @@ h1 span {
     width: 32%;
     margin-right: 2%;
 }
+.aboutSection li:last-child {
+    margin-right: 0%;
+}
+
 .aboutSection li img {
     width: 100%;
     height: auto;
