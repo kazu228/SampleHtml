@@ -37,3 +37,8 @@ h1 span {
     margin-right: auto;
     margin-left: auto;
 }
+
+.mainImage img {
+    width: 100%;
+    height: auto;
+}
