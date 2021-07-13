@@ -3,6 +3,7 @@ h1 {
     font-size: 40px;
     font-family: 'Oswald', sans-serif;
     font-weight: normal;
+    letter-spacing: 1px;
 }
 
 h1 span {
