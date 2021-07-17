@@ -1,0 +1,13 @@
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: normal;
+    letter-spacing: 1px;
+    line-height: 1.2;
+}
+
+h1 span {
+    font-size: 15px;
+}
