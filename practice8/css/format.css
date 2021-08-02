@@ -1,0 +1,162 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: normal;
+    line-height: 1.2;
+    letter-spacing: 1px;
+}
+
+h1 span {
+    font-size: 15px;
+}
+
+.globalNavi {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.globalNavi li {
+    display: inline-block;
+    margin-right: 40px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.globalNavi li:last-child {
+    margin-right: 0px;
+}
+
+.mainImage {
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 40px;
+}
+
+.mainImage img {
+    width: 100%;
+    height: auto;
+}
+
+.hStyle {
+    text-align: center;
+    font-size: 11px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: normal;
+    margin-bottom: 40px;
+}
+.hStyle span {
+    font-size: 35px;
+    border-bottom: 2px solid black;
+}
+
+.aboutSection, .newsSection {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+.aboutSection ul {
+    overflow: hidden;
+    padding: 0;
+}
+
+.aboutSection li {
+    float: left;
+    width: 32%;
+    list-style: none;
+    margin-right: 2%;
+}
+
+.aboutSection li:last-child {
+    margin-right: 0%;
+}
+
+.aboutSection img {
+    width: 100%;
+    height: auto;
+}
+
+.aboutSection h3 {
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: normal;
+    margin: 0;
+}
+
+.aboutSection p {
+    font-size: 14px;
+    margin: 0;
+}
+
+.newsSection table {
+    width: 100%;
+    border-top:  1px solid black;
+}
+
+.newsSection th {
+    font-family: 'Oswald', sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    border-bottom: 1px solid black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 10%;
+}
+
+.newsSection td {
+    font-size: 14px;
+    border-bottom: 1px solid black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 90%;
+}
+
+.instaBt {
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+}
+
+.instaBt a {
+    background: black;
+    color: white;
+    display: block;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-decoration: none;
+    border-radius: 4px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: normal;
+}
+
+.copyright {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
